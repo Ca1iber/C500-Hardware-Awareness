@@ -1,0 +1,4 @@
+interface:
+  display_name: "C500 Hardware Awareness"
+  short_description: "Apply verified C500 hardware facts to operator tuning"
+  default_prompt: "Use $c500-hardware-awareness to analyze this C500 operator or profile with verified hardware and sGPU parameters."
